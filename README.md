@@ -1,10 +1,10 @@
 # QA Learning & Practice Repository
 
-This repository contains my personal QA learning roadmap and practical examples, designed for self-study and real-world job preparation.
+💡 **Designed and written in Obsidian** for QA learning and practice. GitHub may not fully support some Obsidian features.
 
 ## Structure
 
-- **📚 QA Learning Roadmap (ลำดับการเรียน).md**
+- **📚 QA Learning Roadmap.md**
   - Step-by-step learning plan for QA, with links to all key topics and files.
   - Start here if you want to follow a structured QA learning path.
 
@@ -19,6 +19,7 @@ This repository contains my personal QA learning roadmap and practical examples,
 3. Use this repo as a reference for your own QA journey, interview prep, or as a template for building your own QA knowledge base.
 
 ## Notes
+
 - This repo is a work in progress and will be updated as I gain more hands-on experience.
 - Some files are in Thai and English for clarity and real-world context.
 - Contributions, suggestions, or questions are welcome!
