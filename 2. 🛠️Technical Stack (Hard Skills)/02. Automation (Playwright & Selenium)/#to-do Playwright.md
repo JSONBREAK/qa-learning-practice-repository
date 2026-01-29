@@ -1,0 +1,2 @@
+
+Playwright = manual test ที่ทำสคริปมาเพื่อใช้ในการกดแทนคน ตาม test case , scenario , requirement แปลว่า Playwright coregent คือการทำ action คน เป็น script ก็หมายถึงเราต้องทำ case ที่ดีแปลงจาก requirement มาเป็น scenario และ testcase ที่ถึงถึงจะเป็น script ที่ดีได้

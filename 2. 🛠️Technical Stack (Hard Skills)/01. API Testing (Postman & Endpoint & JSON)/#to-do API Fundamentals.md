@@ -1,0 +1,1 @@
+**API Testing:** จดวิธีการใช้ `Postman`, การเช็ค Status Code, และการดู JSON Response.
