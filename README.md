@@ -26,4 +26,4 @@
 
 ---
 
-> "Learning QA is a journey. Document your growth, practice hands-on, and share your story!"
+> "Learning QA is a journey. Document my growth, practice hands-on, and share your story!"
