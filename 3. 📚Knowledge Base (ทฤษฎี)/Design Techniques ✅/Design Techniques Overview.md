@@ -31,7 +31,7 @@
 ตัวอย่าง: โอนเงิน ต้องเช็ค (ยอดคงเหลือ + ลิมิต + หมดเวลา)
 → สร้าง Table เทสทุก Combination
 ```
-📄 [[Decision Table]]
+📄 [[qa-learning-journey-repository/3. 📚Knowledge Base (ทฤษฎี)/Design Techniques ✅/Black-box Techniques/Decision Table]]
 
 ---
 
