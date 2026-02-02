@@ -1,29 +1,33 @@
-# QA Learning & Practice Repository
+# 📚 QA Learning Journey Repository
 
-💡 **Designed and written in Obsidian** for QA learning and practice. GitHub may not fully support some Obsidian features.
+⚠️ **Note:** This repository is created in **Obsidian** and best viewed using Obsidian app. Links and formatting may not work correctly on GitHub.
 
-## Structure
+Self-learning repository for tracking QA knowledge from basics to hands-on practice.
 
-- **📚 QA Learning Roadmap.md**
-  - Step-by-step learning plan for QA, with links to all key topics and files.
-  - Start here if you want to follow a structured QA learning path.
+## 📂 What's Included?
 
-- **QA/**
-  - All main content, examples, templates, and real-world QA files are organized here.
-  - Includes Requirement Analysis, Test Design, Bug Management, Test Reporting, API/SQL/Automation basics, and more.
+- **🚀 Real-World Operations** - Requirement analysis, test design, defect management, test reporting
+- **🛠️ Technical Stack** - API testing (Postman), SQL, Automation (Playwright)
+- **📚 Knowledge Base** - QA fundamentals, design techniques, testing strategies
+- **📋 Learning Roadmap** - Structured learning path with topics and resources
 
-## How to Use
+## 🚀 Quick Start
 
-1. Begin with the QA Learning Roadmap to understand the recommended order and focus areas.
-2. Explore the QA folder for detailed topics, templates, and hands-on examples.
-3. Use this repo as a reference for your own QA journey, interview prep, or as a template for building your own QA knowledge base.
+1. Read [QA Learning Roadmap](QA%20Learning%20Roadmap.md) for structured learning path
+2. Follow the learning sequence from foundational to advanced topics
+3. Use templates and checklists in Real-World Operations for reference
 
-## Notes
+## 📊 Content
 
-- This repo is a work in progress and will be updated as I gain more hands-on experience.
-- Some files are in Thai and English for clarity and real-world context.
-- Contributions, suggestions, or questions are welcome!
+- **65+ markdown files** covering QA theory and practice
+- Templates for test cases, bug reports, RTM
+- Real-world workflows and best practices
+- Bilingual (Thai + English)
+
+## 🎯 Purpose
+
+Track self-learning progress, build QA knowledge systematically, and have a reference guide for work and interviews.
 
 ---
 
-> "Learning QA is a journey. Document my growth, practice hands-on, and share your story!"
+**Start with:** [QA Learning Roadmap](QA%20Learning%20Roadmap.md)
