@@ -1,6 +1,8 @@
 # 🧭 QA → System-aware
 
-Phase 1: QA Foundation
+> **ขอบเขตไฟล์นี้:** แผนภาพรวมการเติบโตของ QA (Roadmap/Skill Progression) ไม่ใช่เป้าหมายการทดสอบโดยตรง
+> หากต้องการ "วัตถุประสงค์ของการทดสอบ" ให้ดูที่ [[Objectives of Testing]]
+
 ## Phase 1: QA Foundation (ต้องแน่นก่อน)
 
 > เป้าหมาย: _เป็น QA ที่ “ไม่หลุดพื้นฐาน” และสื่อสารกับ Dev ได้_

@@ -1,20 +1,20 @@
 
 # 🔄 STLC (Software Testing Life Cycle)
 
-> **สำคัญ:** สำหรับรายละเอียดครบถ้วน ดูที่ 🧪Full version🧪 ไฟล์นี้เป็น Summary เท่านั้น
+> **สำคัญ:** ไฟล์นี้เป็น Full version ครอบคลุมรายละเอียดหลักทั้งหมดของ STLC
 
 ---
 
 ## 📊 STLC 6 ขั้นตอนสรุป
 
-| # | ขั้นตอน | จุดประสงค์ | Input | Output |
-|---|---------|-----------|-------|--------|
-| 1️⃣ | **Requirement Analysis** | วิเคราะห์ Requirement หาจุดกำกวม | Requirement Doc | Testable Requirements |
-| 2️⃣ | **Test Planning** | วางกลยุทธ์ กำหนด scope/risk | Requirements | Test Plan |
-| 3️⃣ | **Test Design** | ออกแบบ Test Cases (EP/BVA) | Requirements | Test Cases + Test Data |
-| 4️⃣ | **Test Implementation** | เตรียม Environment + Test Data | Test Cases | Environment Ready |
-| 5️⃣ | **Test Execution** | รัน Test + เปิด Bug | Test Cases | Test Results + Defect Reports |
-| 6️⃣ | **Test Closure** | สรุปผล + Lessons Learned | Test Results | Test Summary Report |
+| #   | ขั้นตอน                  | จุดประสงค์                       | Input           | Output                        |
+| --- | ------------------------ | -------------------------------- | --------------- | ----------------------------- |
+| 1️⃣ | **Requirement Analysis** | วิเคราะห์ Requirement หาจุดกำกวม | Requirement Doc | Testable Requirements         |
+| 2️⃣ | **Test Planning**        | วางกลยุทธ์ กำหนด scope/risk      | Requirements    | Test Plan                     |
+| 3️⃣ | **Test Design**          | ออกแบบ Test Cases (EP/BVA)       | Requirements    | Test Cases + Test Data        |
+| 4️⃣ | **Test Implementation**  | เตรียม Environment + Test Data   | Test Cases      | Environment Ready             |
+| 5️⃣ | **Test Execution**       | รัน Test + เปิด Bug              | Test Cases      | Test Results + Defect Reports |
+| 6️⃣ | **Test Closure**         | สรุปผล + Lessons Learned         | Test Results    | Test Summary Report           |
 
 ---
 
@@ -51,12 +51,6 @@
 
 ---
 
-## 🔗 ดูเพิ่มเติม
-
-สำหรับรายละเอียดเต็ม: 🧪Full version🧪
-
-
-
 ---
 
 ### 💡 STLC ≠ Waterfall
@@ -80,7 +74,7 @@
 
 ### 🧪  "ภาพรวมการทำงานจริง" 
 **Project:** "ทำระบบจองที่จอดรถล่วงหน้าผ่านแอป"
-# **STLC (Software Testing Life Cycle)**
+## **STLC (Software Testing Life Cycle)**
 
 ### ขั้นตอนที่ 1: **Requirement Analysis**
 - **BA บอกว่า:** "สมาชิกจองที่จอดได้ล่วงหน้า 1-7 วัน"
