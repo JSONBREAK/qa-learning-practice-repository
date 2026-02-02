@@ -11,22 +11,22 @@ Self-learning repository for tracking QA knowledge from basics to hands-on pract
 - **📚 Knowledge Base** - QA fundamentals, design techniques, testing strategies
 - **📋 Learning Roadmap** - Structured learning path with topics and resources
 
-## � Repository Structure
+##  Repository Structure
 
 ```
-qa-learning-journey-repository/
+qa-learning-journey-repository
 ├── README.md
 ├── QA Learning Roadmap.md
 ├── Hiring Readiness Improvement Plan.md
 │
-├── 1. 🚀Real-World Operations/
-│   ├── 01. Requirement Analysis/
+├── 1. 🚀Real-World Operations
+│   ├── 01. Requirement Analysis
 │   │   ├── 01. Requirement Analysis.md
 │   │   ├── 02. Acceptance Criteria (AC).md
 │   │   ├── 03. Impact Analysis.md
 │   │   └── 04. Summary.md
 │   │
-│   ├── 02. Test Design & Data/
+│   ├── 02. Test Design & Data
 │   │   ├── 01. Test Case Design.md
 │   │   ├── 02. Test Case Template.md
 │   │   ├── 03. Writing Test Steps.md
@@ -36,7 +36,7 @@ qa-learning-journey-repository/
 │   │   ├── 07. Test Case Review Process.md
 │   │   └── 08. Summary.md
 │   │
-│   ├── 03. Defect Management/
+│   ├── 03. Defect Management
 │   │   ├── 01. Bug Management Overview.md
 │   │   ├── 02. Anatomy of Bug Report.md
 │   │   ├── 03. Bug Report.md
@@ -47,15 +47,15 @@ qa-learning-journey-repository/
 │   │   ├── 08. RCA (Root Cause Analysis).md
 │   │   └── 09. Summary.md
 │   │
-│   └── 04. Test Reporting/
+│   └── 04. Test Reporting
 │       ├── 00. overview.md
 │       ├── 01. Test Execution Result.md
 │       ├── 02. Defect Report.md
 │       ├── 03. Test Run & Summary Report.md
 │       └── 04. Go & No-Go Criteria.md
 │
-├── 2. 🛠️Technical Stack (Hard Skills)/
-│   ├── 01. API Testing (Postman & Endpoint & JSON)/
+├── 2. 🛠️Technical Stack (Hard Skills)
+│   ├── 01. API Testing (Postman & Endpoint & JSON)
 │   │   ├── 01. API Fundamentals.md
 │   │   ├── 02. Postman Guide.md
 │   │   ├── 03. API & Postman.md
@@ -69,7 +69,7 @@ qa-learning-journey-repository/
 │   │   ├── 04. SQL Cheatsheet.md
 │   │   └── SQL.md
 │   │
-│   └── 03. Automation (Playwright & Selenium)/
+│   └── 03. Automation (Playwright & Selenium)
 │       ├── 01. Automation Concept (Manual vs Automation).md
 │       ├── 02. Automation Frameworks & Tools.md
 │       ├── 03. Locators & Selectors.md
@@ -77,35 +77,35 @@ qa-learning-journey-repository/
 │       ├── 05. Best Practices & Page Object Model (POM).md
 │       └── Automation.md
 │
-└── 3. 📚Knowledge Base (ทฤษฎี)/
-    ├── 01. QA Fundamentals (ปูพื้นฐาน)/
+└── 3. 📚Knowledge Base (ทฤษฎี)
+    ├── 01. QA Fundamentals (ปูพื้นฐาน)
     │   ├── 01. Core Principles/
     │   │   ├── 01. QA Big Picture & Principles.md
     │   │   ├── 02. SDLC & STLC Framework.md
     │   │   ├── 03. Quality & Risk Thinking.md
     │   │   └── 04. Test Coverage.md
     │   │
-    │   └── 02. Test Thinking & Mindset/
+    │   └── 02. Test Thinking & Mindset
     │       ├── 01. Test Case Design Intro.md
     │       └── 02. Positive & Negative Testing.md
     │
-    ├── 02. Design Techniques (เทคนิคการออกแบบ)/
+    ├── 02. Design Techniques (เทคนิคการออกแบบ)
     │   ├── 00. Design Techniques Overview.md
     │   │
-    │   ├── 01. Black-box (Specification-based)/
+    │   ├── 01. Black-box (Specification-based)
     │   │   ├── 01. Equivalence Partitioning (EP).md
     │   │   ├── 02. Boundary Value Analysis (BVA).md
     │   │   ├── 03. Decision Table.md
     │   │   └── 04. State Transition Testing.md
     │   │
-    │   ├── 02. White-box (Structure-based)/
+    │   ├── 02. White-box (Structure-based)
     │   │   └── 01. Statement & Decision Coverage.md
     │   │
     │   └── 03. Experience-based/
     │       ├── 01. Error Guessing & Exploratory Testing.md
     │       └── 02. Experience-Based Testing (EBT).md
     │
-    └── 03. Testing Strategy (กลยุทธ์การทำงาน)/
+    └── 03. Testing Strategy (กลยุทธ์การทำงาน)
         ├── 01. Test Levels.md
         ├── 02. Test Types (Functional & Non-Functional).md
         ├── 03. Build & Change-Related Testing (Smoke, Sanity, Regression, Re-testing).md
