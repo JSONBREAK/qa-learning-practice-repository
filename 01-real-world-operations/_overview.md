@@ -43,5 +43,5 @@
 
 - [กลับไปหน้าหลัก](../README.md)
 - [QA Learning Roadmap](../QA%20Learning%20Roadmap.md)
-- [Knowledge Base](qa-learning-journey-repository/3.%20📚%20Knowledge-base/_overview.md) - ศึกษาทฤษฎี
-- [Technical Stack](qa-learning-journey-repository/2.%20🛠️%20Technical-stack/_overview.md) - เครื่องมือและเทคนิค
+- [Knowledge Base](../03-knowledge-base/_overview.md) - ศึกษาทฤษฎี
+- [Technical Stack](../02-technical-stack/_overview.md) - เครื่องมือและเทคนิค

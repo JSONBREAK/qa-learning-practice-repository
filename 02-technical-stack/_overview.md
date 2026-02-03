@@ -41,5 +41,5 @@
 
 - [กลับไปหน้าหลัก](../README.md)
 - [QA Learning Roadmap](../QA%20Learning%20Roadmap.md)
-- [Real-World Operations](qa-learning-journey-repository/1.%20🚀%20Real-world-operations/_overview.md) - งานจริง
-- [Knowledge Base](qa-learning-journey-repository/3.%20📚%20Knowledge-base/_overview.md) - ทฤษฎี
+- [Real-World Operations](../01-real-world-operations/_overview.md) - งานจริง
+- [Knowledge Base](../03-knowledge-base/_overview.md) - ทฤษฎี

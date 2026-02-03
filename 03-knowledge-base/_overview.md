@@ -56,5 +56,5 @@
 
 - [กลับไปหน้าหลัก](../README.md)
 - [QA Learning Roadmap](../QA%20Learning%20Roadmap.md)
-- [Real-World Operations](qa-learning-journey-repository/1.%20🚀%20Real-world-operations/_overview.md) - นำทฤษฎีไปใช้งานจริง
-- [Technical Stack](qa-learning-journey-repository/2.%20🛠️%20Technical-stack/_overview.md) - เครื่องมือ
+- [Real-World Operations](../01-real-world-operations/_overview.md) - นำทฤษฎีไปใช้งานจริง
+- [Technical Stack](../02-technical-stack/_overview.md) - เครื่องมือ
