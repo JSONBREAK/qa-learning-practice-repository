@@ -55,16 +55,16 @@ qa-learning-journey-repository/
 
 ## 🗂️ Main Content
 
-### [🚀 Real-World Operations](qa-learning-journey-repository/1.%20🚀%20Real-world-operations/_overview.md)
+### [🚀 Real-World Operations](01-real-world-operations/_overview.md)
 Actual QA work - Requirement, Test Design, Bug Report, Test Reporting
 
-### [🛠️ Technical Stack](qa-learning-journey-repository/2.%20🛠️%20Technical-stack/_overview.md)
+### [🛠️ Technical Stack](02-technical-stack/_overview.md)
 Essential tools - API Testing, SQL, Automation
 
-### [📚 Knowledge Base](qa-learning-journey-repository/3.%20📚%20Knowledge-base/_overview.md)
+### [📚 Knowledge Base](03-knowledge-base/_overview.md)
 Theory fundamentals - QA Fundamentals, Design Techniques, Testing Strategy
 
-### [📦 Resources](qa-learning-journey-repository/4.%20💼%20Resources/_overview.md)
+### [📦 Resources](04-resources/_overview.md)
 Examples and templates
 
 ---
