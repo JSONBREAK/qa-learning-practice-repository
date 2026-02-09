@@ -68,7 +68,7 @@
 2️⃣ Functional Requirements เข้าใจว่า **ระบบต้องทำอะไรบ้าง** และ ต้องแปลง requirement เป็น
 - Scenario
 - Test Case
-- [[02. Acceptance Criteria (AC)|Acceptance Criteria (AC)]]
+- [[01-real-world-operations/01-requirement-analysis/02. Acceptance Criteria (AC)|Acceptance Criteria (AC)]]
 
 3️⃣ Non-Functional Requirements (NFR) เช่น 
 - Performance 
@@ -86,13 +86,13 @@
 
 5️⃣ Ambiguity & Gap Analysis (ไม่ชัดเจน/สิ่งที่ขาดหายไป) 🔥
 
-6️⃣ [[03. Impact Analysis|Impact Analysis]] (การเปลี่ยนแปลง ส่งผลกระทบต่ออะไรบ้าง) เพื่อ
+6️⃣ [[01-real-world-operations/01-requirement-analysis/03. Impact Analysis|Impact Analysis]] (การเปลี่ยนแปลง ส่งผลกระทบต่ออะไรบ้าง) เพื่อ
 - **Regression Testing:** ต้องทดสอบซ้ำในส่วนไหนบ้าง
 - **Resources & Time:** ต้องใช้คน และเวลาเท่าไหร่
 
-7️⃣ [[05. Risk-based Testing (RBT)|Risk Analysis]] ดูว่า business impact แค่ไหนเพื่อรู้ว่า test อะไรก่อน
+7️⃣ [[03-knowledge-base/03-testing-strategy/05. Risk-based Testing (RBT)|Risk Analysis]] ดูว่า business impact แค่ไหนเพื่อรู้ว่า test อะไรก่อน
 
-8️⃣ [[06. Traceability Matrix (RTM)|Traceability (RTM)]] ให้รู้ว่า Requirement ไหน test แล้ว
+8️⃣ [[01-real-world-operations/02-test-design-data/06. Traceability Matrix (RTM)|Traceability (RTM)]] ให้รู้ว่า Requirement ไหน test แล้ว
 
 9️⃣ Stakeholder Communication 
 - re-check with BA / PM
