@@ -1,73 +1,82 @@
 # 📚 QA Learning Journey
 
-> Self-learning repository to track my QA journey from basics to real-world practice.  
-> Combining theory and hands-on knowledge in one place.
+> Self-learning repository to organize my QA knowledge  
+> (จัดระเบียบความรู้ QA ของตัวเอง - ตั้งแต่พื้นฐานจนถึงการทำงานจริง)
 
-⚠️ **Note:** This repository is created in **Obsidian** and best viewed using Obsidian app. Links and formatting may not work correctly on GitHub.
-
-**Created for:**
-- 📖 Systematically document my learning
-- 🎯 Track my own progress
-- 💼 Prepare for work and interviews
-- 🔄 Review when needed
+📍 **Start here:** [QA Learning Roadmap](QA%20Learning%20Roadmap.md) - เส้นทางการเรียนรู้แบบเป็นขั้นเป็นตอน
 
 ---
 
-## 📂 What's Included?
+## 🎯 Purpose
 
-- **🚀 Real-World Operations** - Requirement analysis, test design, defect management, test reporting
-- **🛠️ Technical Stack** - API testing, SQL, Automation (Playwright)
-- **📚 Knowledge Base** - QA fundamentals, design techniques, testing strategies
-- **📦 Resources** - Examples and templates
+- 📖 Organize QA knowledge systematically (จัดระเบียบความรู้ QA)
+- 🎯 Track learning progress (ติดตามความคืบหน้า)
+- 💼 Prepare for real QA work (เตรียมพร้อมสำหรับงานจริง)
+- 🔄 Quick reference when needed (คู่มืออ้างอิงด่วน)
+
+---
 
 ## 📂 Repository Structure
 
 ```
 qa-learning-journey-repository/
-├── README.md                         # 👈 Start here
-├── QA Learning Roadmap.md            # Detailed learning path
 │
-├── 01-real-world-operations/         # 🚀 Real QA work
-│   ├── _overview.md                  # 📋 Section index
-│   ├── 01-requirement-analysis/
-│   ├── 02-test-design-data/
-│   ├── 03-defect-management/
-│   └── 04-test-reporting/
+├── 01-qa-fundamentals/           # 🧠 QA Fundamentals (พื้นฐาน QA)
+│   ├── 01-core-principles/       # Core principles, SDLC, STLC
+│   └── 02-test-thinking-mindset/ # Test thinking & mindset
 │
-├── 02-technical-stack/               # 🛠️ Tools and technical skills
-│   ├── _overview.md                  # 📋 Section index
-│   ├── 01-api-testing/
-│   ├── 02-database-sql/
-│   └── 03-automation/
+├── 02-qa-process/                # ⚙️ QA Workflow (กระบวนการทำงาน)
+│   ├── 01-requirement-analysis/  # Requirement analysis
+│   ├── 02-test-design-data/      # Test case design & data
+│   ├── 03-defect-management/     # Defect management
+│   └── 04-test-reporting/        # Test reporting
 │
-├── 03-knowledge-base/                # 📚 Theory and fundamentals
-│   ├── _overview.md                  # 📋 Section index
-│   ├── 01-qa-fundamentals/
-│   ├── 02-design-techniques/
-│   └── 03-testing-strategy/
+├── 03-design-techniques/         # 🎨 Design Techniques (เทคนิคออกแบบ)
+│   ├── 01-black-box/             # EP, BVA, Decision Table, State Transition
+│   ├── 02-white-box/             # Statement & Decision Coverage
+│   └── 03-experience-based/      # Exploratory, Error Guessing
 │
-└── 04-resources/                     # 📦 Examples and templates
-    ├── _overview.md                  # 📋 Section index
+├── 04-technical-skills/          # 🛠️ Technical Skills (Coming Soon)
+│
+├── 05-templates-cheatsheets/     # 📝 Templates & Cheatsheets
+│   ├── test-case-template.md
+│   ├── bug-report-template.md
+│   ├── sql-cheatsheet.md
+│   └── api-testing-checklist.md
+│
+└── 06-resources/                 # 📦 Resources & Examples
     └── examples/
 ```
 
 ---
 
-## 🗂️ Main Content
+## 📊 Current Status
 
-### [🚀 Real-World Operations](01-real-world-operations/_overview.md)
-Actual QA work - Requirement, Test Design, Bug Report, Test Reporting
-
-### [🛠️ Technical Stack](02-technical-stack/_overview.md)
-Essential tools - API Testing, SQL, Automation
-
-### [📚 Knowledge Base](03-knowledge-base/_overview.md)
-Theory fundamentals - QA Fundamentals, Design Techniques, Testing Strategy
-
-### [📦 Resources](04-resources/_overview.md)
-Examples and templates
+| Section                 | Files | Status                 |
+| ----------------------- | ----- | ---------------------- |
+| QA Fundamentals         | 6     | ✅ Complete (Organized) |
+| QA Process              | 26    | ✅ Complete (Organized) |
+| Design Techniques       | 10    | ✅ Complete (Organized) |
+| Technical Skills        | 0     | 🚧 Coming Soon         |
+| Templates & Cheatsheets | 5     | ✅ Complete             |
+| Resources               | 1+    | ✅ Active               |
 
 ---
+
+## 💡 Quick Tips
+
+**สิ่งที่ต้องจำ:**
+- 🤔 กล้าถามเมื่อ requirement ไม่ชัด - ป้องกันบั๊กตั้งแต่ต้น
+- ✍️ Test Case ต้องเขียนให้คนอื่นทำตามได้ (Reproducible)
+- 🎯 ใช้ Design Techniques (BVA, EP, Decision Table) เลือก Test Case ให้คุ้มค่า
+- 🐛 Bug Report ต้องมี: Steps to Reproduce + Expected vs Actual + Evidence
+- ⚖️ แยก Severity (ผลกระทบ) vs Priority (ความเร่งด่วน) ให้ชัด
+- 🔄 Regression Test = เทสซ้ำส่วนเก่าที่อาจกระทบจากการแก้ใหม่
+
+---
+
+**Last Updated:** Feb 10, 2026  
+**Version:** 2.1
 
 
 
