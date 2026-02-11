@@ -22,8 +22,10 @@
 qa-learning-journey-repository/
 │
 ├── 01-qa-fundamentals/           # 🧠 QA Fundamentals (พื้นฐาน QA)
-│   ├── 01-core-principles/       # Core principles, SDLC, STLC
-│   └── 02-test-thinking-mindset/ # Test thinking & mindset
+│   ├── 01. QA Big Picture & Principles.md
+│   ├── 02. SDLC & STLC Framework.md
+│   ├── 03. Quality & Risk Thinking.md
+│   └── 04. Verification vs Validation.md
 │
 ├── 02-qa-process/                # ⚙️ QA Workflow (กระบวนการทำงาน)
 │   ├── 01-requirement-analysis/  # Requirement analysis
@@ -36,47 +38,40 @@ qa-learning-journey-repository/
 │   ├── 02-white-box/             # Statement & Decision Coverage
 │   └── 03-experience-based/      # Exploratory, Error Guessing
 │
-├── 04-technical-skills/          # 🛠️ Technical Skills (Coming Soon)
+├── 04-technical-skills/          # 🛠️ Technical Skills (ทักษะเทคนิค)
+│   ├── 01-database-sql/          # SQL for QA, Data Verification
+│   ├── 02-api-testing/           # API concepts, Postman, Test design
+│   ├── 03-test-automation/       # Automation mindset, Playwright, POM
+│   └── 99-end-to-end-flow/       # Complete user flow examples
 │
-├── 05-templates-cheatsheets/     # 📝 Templates & Cheatsheets
-│   ├── test-case-template.md
-│   ├── bug-report-template.md
-│   ├── sql-cheatsheet.md
-│   └── api-testing-checklist.md
+├── 05-resources/                 # 📦 Resources & Examples
+│   └── examples/                 # ตัวอย่างจากสถานการณ์จริง
 │
-└── 06-resources/                 # 📦 Resources & Examples
-    └── examples/
+└── 06-templates-cheatsheets/     # 📝 Templates & Cheatsheets
+    ├── test-case-template.md
+    ├── bug-report-template.md
+    ├── sql-cheatsheet.md
+    └── api-testing-checklist.md
 ```
 
 ---
-
-## 📊 Current Status
-
-| Section                 | Files | Status                 |
-| ----------------------- | ----- | ---------------------- |
-| QA Fundamentals         | 6     | ✅ Complete (Organized) |
-| QA Process              | 26    | ✅ Complete (Organized) |
-| Design Techniques       | 10    | ✅ Complete (Organized) |
-| Technical Skills        | 0     | 🚧 Coming Soon         |
-| Templates & Cheatsheets | 5     | ✅ Complete             |
-| Resources               | 1+    | ✅ Active               |
-
----
-
 ## 💡 Quick Tips
 
 **สิ่งที่ต้องจำ:**
+```
 - 🤔 กล้าถามเมื่อ requirement ไม่ชัด - ป้องกันบั๊กตั้งแต่ต้น
 - ✍️ Test Case ต้องเขียนให้คนอื่นทำตามได้ (Reproducible)
 - 🎯 ใช้ Design Techniques (BVA, EP, Decision Table) เลือก Test Case ให้คุ้มค่า
 - 🐛 Bug Report ต้องมี: Steps to Reproduce + Expected vs Actual + Evidence
 - ⚖️ แยก Severity (ผลกระทบ) vs Priority (ความเร่งด่วน) ให้ชัด
 - 🔄 Regression Test = เทสซ้ำส่วนเก่าที่อาจกระทบจากการแก้ใหม่
+```
+
 
 ---
 
-**Last Updated:** Feb 10, 2026  
-**Version:** 2.1
+**Last Updated:** Feb 11, 2026  
+**Version:** 2.3 - ลบ 04-manual-qa และย้ายข้อมูลไปที่ 05-resources/examples
 
 
 
