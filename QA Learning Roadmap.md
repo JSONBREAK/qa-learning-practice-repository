@@ -38,10 +38,12 @@
 - **White-box** - Statement & Decision Coverage
 - **Experience-based** - Error Guessing, Exploratory Testing, Checklist-based
 
-### 🛠️ ทักษะด้านเทคนิค (กำลังเพิ่มเติม)
+### 🛠️ ทักษะด้านเทคนิค
 - **SQL for QA** - ตรวจสอบข้อมูล, query, join
 - **API Testing** - Postman, REST API, automation
 - **Test Automation** - Playwright, Selenium, POM
+- **Locator Strategy** - วิธีเลือก locator ให้ stable, maintainable, performance-aware
+- **POM Best Practices** - ออกแบบ Page Object Model ให้ scalable, readable, maintainable
 
 ### 📝 Templates และ Cheatsheets
 - **Templates** - Test Case, Bug Report, Test Summary Report

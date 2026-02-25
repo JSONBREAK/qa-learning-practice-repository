@@ -3,16 +3,16 @@
 > Self-learning repository to organize my QA knowledge  
 > (จัดระเบียบความรู้ QA ของตัวเอง - ตั้งแต่พื้นฐานจนถึงการทำงานจริง)
 
-📍 **Start here:** [QA Learning Roadmap](QA%20Learning%20Roadmap.md) - เส้นทางการเรียนรู้แบบเป็นขั้นเป็นตอน
-
 ---
+
 
 ## 🎯 Purpose
 
-- 📖 Organize QA knowledge systematically (จัดระเบียบความรู้ QA)
-- 🎯 Track learning progress (ติดตามความคืบหน้า)
-- 💼 Prepare for real QA work (เตรียมพร้อมสำหรับงานจริง)
-- 🔄 Quick reference when needed (คู่มืออ้างอิงด่วน)
+- รวมความรู้ QA ตั้งแต่พื้นฐานจนถึงการทำงานจริง
+- สร้าง roadmap สำหรับ self-learning และ onboarding
+- เป็น reference สำหรับ QA, Dev, Product, Tech Lead
+- เตรียมพร้อมสำหรับงานจริงและการสอบสัมภาษณ์
+- อัปเดตเทคนิคใหม่ ๆ และ best practices
 
 ---
 
@@ -41,7 +41,7 @@ qa-learning-journey-repository/
 ├── 04-technical-skills/          # 🛠️ Technical Skills (ทักษะเทคนิค)
 │   ├── 01-database-sql/          # SQL for QA, Data Verification
 │   ├── 02-api-testing/           # API concepts, Postman, Test design
-│   ├── 03-test-automation/       # Automation mindset, Playwright, POM
+│   ├── 03-test-automation/       # Automation mindset, Playwright, Locator Strategy, POM Best Practices
 │   └── 99-end-to-end-flow/       # Complete user flow examples
 │
 ├── 05-resources/                 # 📦 Resources & Examples
@@ -58,20 +58,19 @@ qa-learning-journey-repository/
 ## 💡 Quick Tips
 
 **สิ่งที่ต้องจำ:**
-```
-- 🤔 กล้าถามเมื่อ requirement ไม่ชัด - ป้องกันบั๊กตั้งแต่ต้น
-- ✍️ Test Case ต้องเขียนให้คนอื่นทำตามได้ (Reproducible)
-- 🎯 ใช้ Design Techniques (BVA, EP, Decision Table) เลือก Test Case ให้คุ้มค่า
-- 🐛 Bug Report ต้องมี: Steps to Reproduce + Expected vs Actual + Evidence
-- ⚖️ แยก Severity (ผลกระทบ) vs Priority (ความเร่งด่วน) ให้ชัด
-- 🔄 Regression Test = เทสซ้ำส่วนเก่าที่อาจกระทบจากการแก้ใหม่
-```
+
+- ถาม requirement ให้ชัดก่อนเริ่ม
+- Test Case ต้อง reproducible
+- ใช้เทคนิคออกแบบ (BVA, EP, Decision Table) ให้คุ้มค่า
+- Bug Report ต้องครบ: Steps, Expected vs Actual, Evidence
+- Severity ≠ Priority
+- Regression Test คือเทสซ้ำส่วนที่อาจโดนผลกระทบ
 
 
 ---
 
-**Last Updated:** Feb 11, 2026  
-**Version:** 2.3 - ลบ 04-manual-qa และย้ายข้อมูลไปที่ 05-resources/examples
+**Last Updated:** Feb 26, 2026
+
 
 
 
